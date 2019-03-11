@@ -75,11 +75,3 @@ Use the following login access
 
 ## More configuration
 Simply edit ```graylog.config``` and refer to Graylog server configuration. If anything is changed, do a hard restart on the containers.
-
-
-# Todo
-- Persist Graylog server data
-- Persist MongoDb server data
-- Persist ElasticSearch data
-
-<sub><sup>** Persist by binding host directory to docker containers.</sup></sub>
